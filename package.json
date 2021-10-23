@@ -1,6 +1,6 @@
 {
   "name": "webpack-jgmwifn",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "You want the kitchen sink, so here it is",
   "license": "MIT",
   "repository": {
@@ -11,7 +11,7 @@
     "@babel/core": "^7.15.8",
     "@babel/preset-env": "^7.15.8",
     "@babel/preset-react": "^7.14.5",
-    "bable-loader": "^0.0.1-security",
+    "babel-loader": "^8.2.3",
     "css-loader": "^6.4.0",
     "mini-css-extract-plugin": "^2.4.3",
     "postcss": "^8.3.11",
