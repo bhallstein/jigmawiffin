@@ -1,6 +1,12 @@
-# Webpack: Just Give Me What I Effin Need
+# JGMWIFN: Just Give Me What I Effin Need
 
-*Look, you want the kitchen sink, so here it is*
+*The kitchen sink? You got it!*
+— Javascript developers
+
+
+## Pronunciation
+
+*Jig-ma-wiffin*
 
 
 ## Installation
@@ -21,17 +27,13 @@ npm r -D \
   webpack-bundle-analyzer \
   webpack-cli \
   webpack-dev-server
-npm i -D webpack-jgmwifn
+npm i -D jigmawiffin
 ```
-
-## Pronunciation
-
-*Webpack Jigmawiffin*
 
 
 ## What:
 
-Webpack Jigmawiffin doesn’t include any executable code, it just installs the dependencies that you *always* fucking want:
+Jigmawiffin doesn’t include any executable code, it just installs the big old list of webpack dependencies that you *always* want:
 
 - @babel/core
 - @babel/preset-env

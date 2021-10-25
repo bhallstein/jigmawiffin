@@ -1,11 +1,11 @@
 {
-  "name": "webpack-jgmwifn",
-  "version": "1.0.4",
-  "description": "You want the kitchen sink, so here it is",
+  "name": "jigmawiffin",
+  "version": "1.0.0",
+  "description": "Kitchen sink? You got it.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhallstein/webpack-jgmwifn.git"
+    "url": "git+https://github.com/bhallstein/jigmawiffin.git"
   },
   "dependencies": {
     "@babel/core": "^7.15.8",
